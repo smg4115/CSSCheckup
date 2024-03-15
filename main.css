@@ -1,0 +1,21 @@
+.box {
+    border: 10px solid red;
+    padding: 20px;
+    width:fit-content;
+}
+
+.color {
+    color:blueviolet;
+}
+
+#family {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+#margin {
+    margin: 30px;
+  }
+
+body {
+    background-color: rgb(141, 67, 85);
+  }
